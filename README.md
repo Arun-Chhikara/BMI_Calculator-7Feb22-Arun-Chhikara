@@ -2,7 +2,9 @@
 Find out BMI of person based on height in weight and finally profile persons
 
 Use BMI class to:-
+
   To find out the BMI of a person given its Gender, Hight and Weight:-
+  
     a>. Use profile_bmi method to calculate the BMI of persons and also count of overweight persons
     
     b>. profile_bmi ouputs a tuble of a pandas dataframe and an integer. 
